@@ -22,7 +22,7 @@ Medivac will automatic launch after it is fully loaded and you will get reward f
  
  Give simple order to marine to move to desired location.
  
- Locate friendly and hostile encounter and give appropriate maneuver. Move camera to encounter of marine and baneling. Since marine sight are slightly longer than the distance of triggering attack of baneling, there are certain range of reaction time possible. Move properly to dodge banelings in a timely efficient manner. In real game play, this mean move your camera to potential combat.
+ Locate friendly and hostile encounter and give appropriate maneuver. Move camera to encounter of marine and baneling. Since marine sight are slightly longer than the distance of triggering attack of baneling, there are certain range of reaction time possible. Move properly to dodge banelings in a timely efficient manner. In real game play, this mean move your camera to potential combat area.
  
  Use skill to increase chance of survival. Use marine skill (stimpack) when it is chasing by baneling. Baneling speed is slightly higher than marine speed without stim. Use stimpack will give marine speed advantage. Keep in mind that each marine only have one chance to use their stimpack. Also, when speed increases, there are less time to react. This is similar to access battle field situation and give right order to unit.
  
