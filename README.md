@@ -16,7 +16,7 @@ Medivac will automatic launch after it is fully loaded and you will get reward f
  
   * 180 seconds
  
- # Intended Machine Learning objective:
+ # Intended Machine Learning Objective:
  
  Observe the minimap, locate marines spawning on the map. Since medivac location are pre-determined, it should be easy to find marine location from minimap. This simulate, in real game-play, distinguish between location of friendly buildings and units. Buildings will have determined location and unable to move (normally) and unit require constant observe and micro.
  
