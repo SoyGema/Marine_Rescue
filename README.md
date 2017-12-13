@@ -1,6 +1,6 @@
 # Marine Rescue Description:
 
-In this minimap, your mission is to locate marines and order them to load a medivac for evacuation. Banelings are wandering on the map randomly looking for marine to kill. Dodge those banelings and get as many marines rescued as possible. 10 difficulty levels are available for begineers and experienced player. With higher level, there will be more marines and banelings appeared simultaneously on the map. Keep an eye on the minimap for banelings and if necessary, use the stimpack for marine to gain a speed advantage. Stimpack is only available once for each marine, make it count.
+In this minimap, your mission is to locate marines and order them to load a medivac for evacuation. Banelings are wandering on the map randomly looking for marine to kill. Dodge those banelings and get as many marines rescued as possible. 10 difficulty levels are available for beginner and experienced player. With higher level, there will be more marines and banelings appeared simultaneously on the map. Keep an eye on the minimap for banelings and, if necessary, use the stimpack for marine to gain a speed advantage. Stimpack is only available once for each marine, make it count.
 
 Medivac will automatic launch after it is fully loaded and you will get reward for that. At same time, another empty medivac will enter battle field to the designated location. It beneficial to load single medivac instead of load them seperately but you have to risk longer travel time of your marines on the map. So, plan carefully.
 
