@@ -14,7 +14,7 @@ Medivac will automatic launch after it is fully loaded and you will get reward f
  
  # Time Available:
  
- 180 seconds
+  * 180 seconds
  
  # Intended Machine Learning objective:
  
